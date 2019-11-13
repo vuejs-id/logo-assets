@@ -1,9 +1,13 @@
 ![VueJS Indonesia](./png/header_main.png)
-# logo-assets
 
 Logo dan assets untuk komunitas Vue.js Indonesia
 
-## Available logo assets 
+## Ketentuan Penggunaan Logo
+
+- Tidak diperkenankan menggunakan semua logo yang ada di dalam repository ini untuk kepentingan komersial, memproduksi merchandise apapun, dan alasan lain untuk kepentingan dan keuntungan pribadi tanpa ijin dan sepengetahuan dari beberapa pengurus komunitas Vue.js ID.
+- Diperkenankan menggunakan logo untuk kepentingan non-komersial terutama yang berkaitan dengan komunitas teknologi di Indonesia.
+
+## Direktori Logo
 
 ```bash
 .
@@ -50,7 +54,7 @@ Logo dan assets untuk komunitas Vue.js Indonesia
     └── wave.svg
 ```
 
-## Logo creator
+## Pembuat Logo
 
 [@ikrydev](https://github.com/ikrydev) on this [issue #3](https://github.com/vuejs-id/blog/issues/3)
 
