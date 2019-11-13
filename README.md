@@ -4,7 +4,8 @@ Logo dan assets untuk komunitas Vue.js Indonesia
 
 ## Ketentuan Penggunaan Logo
 
-- Tidak diperkenankan menggunakan semua logo yang ada di dalam repository ini untuk kepentingan komersial, memproduksi merchandise apapun, dan alasan lain untuk kepentingan dan keuntungan pribadi tanpa ijin dan sepengetahuan dari beberapa pengurus komunitas Vue.js ID.
+- Tidak diperkenankan menggunakan semua logo yang ada di dalam repository ini untuk kepentingan komersial, 
+memproduksi merchandise fisik seperti kaos, baju, stiker dan lainnya, serta alasan lain untuk kepentingan dan keuntungan pribadi tanpa ijin dan sepengetahuan dari beberapa pengurus komunitas Vue.js ID.
 - Diperkenankan menggunakan logo untuk kepentingan non-komersial terutama yang berkaitan dengan komunitas teknologi di Indonesia.
 
 ## Direktori Logo
