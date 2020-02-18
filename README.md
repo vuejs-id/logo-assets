@@ -12,9 +12,12 @@ memproduksi merchandise fisik seperti kaos, baju, stiker dan lainnya, serta alas
 
 ```bash
 .
+├── LICENSE
+├── README.md
 ├── ai
 │   ├── header.ai
 │   ├── logo.ai
+│   ├── meetup_poster.ai
 │   └── wave.ai
 ├── drawable
 │   ├── drawable-hdpi
@@ -46,12 +49,16 @@ memproduksi merchandise fisik seperti kaos, baju, stiker dan lainnya, serta alas
 │   ├── logo_circle-black.png
 │   ├── logo_transparent-glow.png
 │   ├── logo_transparent.png
+│   ├── meetup_poster_dark.png
+│   ├── meetup_poster_light.png
 │   └── wave.png
 └── svg
     ├── header_main.svg
     ├── logo_circle-black.svg
     ├── logo_transparent-glow.svg
     ├── logo_transparent.svg
+    ├── meetup_poster_dark.svg
+    ├── meetup_poster_light.svg
     └── wave.svg
 ```
 
